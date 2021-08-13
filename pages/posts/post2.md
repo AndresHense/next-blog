@@ -26,13 +26,13 @@ I'll say that the things they know too little are from a **body of knowledge**, 
 2*3=6
 ```
 How it is possible to a man to wonder about the meaning of this simple expression if he does not know what the symbol 2 and the others symbols represent?
-A priori knowledge in needed then to be able to formulate question of more advanced concepts of a given body of knowledge.
+A priori knowledge is needed then to be able to formulate question of more advanced concepts of a given body of knowledge.
 
 But Aristotle's argument ends here. And I argue that this is not enough to answer the original question. After all being able to do something is not sufficient condition to do that something. There has to be something more. But let's assume that we already have that priori knowledge.
 
 ### If one has the knowledge required to ask a question, What it takes to be able to ask that question?
 
-Let me reframe what a question is: _a question is an action preformed by a human_. And an action only occurs when there is a **motive** to do that action.
+Let me reframe what a question is: _a question is an action performed by a human_. And an action only occurs when there is a **motive** to do that action.
 Now I can also reframe my original question as follows:
 
 ## What motivates one to ask questions?
@@ -42,6 +42,7 @@ To answer that question one has to answer first the following:
 ### What is a motive?
 
 A motive is a reason strong enough to led to action, it can be rational, or emotional, it can come from within (intrinsic motive), or from the outside (extrinsic motive), it can be conscious or not, it can be to seek pleasure or to avoid suffering. And there is rarely one single motive involved in any particular action.
+
 Motives compete 24/7 to create actions, not only that, Schwartz(2008) argues that various motives can compete to led to the same action, and only one can success, and by doing so the result changes drastically than if another motive where to have succesed.
 
 Motives are, as you can see, a deep subject that I shall not boast understanding about, furthermore to really understand what motivates humans to ask questions is to understand what motivates humans in the first place, and in undestanding it one has to deeply understand the human nature in itself.
